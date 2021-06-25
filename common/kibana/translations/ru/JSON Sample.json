@@ -1,6 +1,4 @@
 {
-   "Approve_button" : "Approve",
-   "Reject_button" : "Reject",
    "BillingListScreen" : {
       "Sorting" : {
          "by_date_decrease" : "По дате (по убыванию)",

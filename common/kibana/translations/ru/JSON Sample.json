@@ -1,4 +1,5 @@
 {
+   "Approve_button" : "Подтвердить",
    "BillingListScreen" : {
       "Sorting" : {
          "by_date_decrease" : "По дате (по убыванию)",
@@ -81,6 +82,7 @@
          "payment_name" : "Payment for Device"
       }
    ],
+   "Reject_button" : "Отказать",
    "Users" : [
       {
          "name" : "Johm",

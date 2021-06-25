@@ -62,6 +62,7 @@
          "last_week" : "Last week"
       }
    },
+   "Cancel_button" : "Отменить",
    "Payment frequency" : [
       "Monthly",
       "Weekly",

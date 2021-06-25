@@ -80,6 +80,7 @@
          "payment_name" : "Payment for Device"
       }
    ],
+   "Reject_button" : "Отказать",
    "Users" : [
       {
          "name" : "Johm",

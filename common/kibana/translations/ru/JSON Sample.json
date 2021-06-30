@@ -1,7 +1,7 @@
 {
    "BillingListScreen" : {
       "Sorting" : {
-         "by_date_decrease" : "По дате (по убыванию)",
+         "by_date_decrease" : "By date (decrease)",
          "by_date_increase" : "По дате (по возрастанию)",
          "by_price_decrease" : "По цене (по убыванию)",
          "by_price_increase" : "По цене (по возрастанию)"
@@ -21,9 +21,9 @@
       "dayNamesShort" : {
          "friday" : "Пт",
          "monday" : "Пн",
-         "saturday" : "Сб",
-         "sunday" : "Вскр",
-         "thursday" : "Вт",
+         "saturday" : "S",
+         "sunday" : "S",
+         "thursday" : "T",
          "tuesday" : "T",
          "wednesday" : "Ср"
       },
@@ -33,7 +33,7 @@
          "december" : "Декабрь",
          "february" : "Февраль",
          "january" : "Январь",
-         "july" : "July",
+         "july" : "Июль",
          "june" : "June",
          "march" : "March",
          "may" : "May",
@@ -47,7 +47,7 @@
          "dec" : "Dec",
          "feb" : "Feb",
          "jan" : "Jan",
-         "july" : "July",
+         "july" : "Июль",
          "june" : "June",
          "mar" : "Mar",
          "may" : "May",

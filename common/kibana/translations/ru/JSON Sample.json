@@ -1,7 +1,7 @@
 {
    "BillingListScreen" : {
       "Sorting" : {
-         "by_date_decrease" : "By date (decrease)",
+         "by_date_decrease" : "По дате (по убыванию)",
          "by_date_increase" : "По дате (по возрастанию)",
          "by_price_decrease" : "По цене (по убыванию)",
          "by_price_increase" : "По цене (по возрастанию)"
@@ -21,10 +21,10 @@
       "dayNamesShort" : {
          "friday" : "Пт",
          "monday" : "Пн",
-         "saturday" : "S",
-         "sunday" : "S",
-         "thursday" : "T",
-         "tuesday" : "T",
+         "saturday" : "Сб",
+         "sunday" : "Вскр",
+         "thursday" : "Чт",
+         "tuesday" : "Вт",
          "wednesday" : "Ср"
       },
       "monthNames" : {
@@ -95,7 +95,7 @@
    "after_superpoints" : "After superpoints",
    "at_the_end_of_billing_period" : "At the end of billing period",
    "change card" : "Change card",
-   "greeting" : "Здесь ваш портал!",
+   "greeting" : "Это ваш портал!",
    "information_changed" : "Your information has been successfully changed",
    "payment_name" : "Payment for Internent",
    "payment_with_superpoins_for" : "Payment with superpoints for equipment and bills",

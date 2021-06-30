@@ -24,8 +24,8 @@
          "monday" : "Пн",
          "saturday" : "Сб",
          "sunday" : "Вскр",
-         "thursday" : "Вт",
-         "tuesday" : "T",
+         "thursday" : "Чт",
+         "tuesday" : "Вт",
          "wednesday" : "Ср"
       },
       "monthNames" : {

@@ -2,7 +2,7 @@
    "Approve_button" : "Подтвердить",
    "BillingListScreen" : {
       "Sorting" : {
-         "by_date_decrease" : "By date (decrease)",
+         "by_date_decrease" : "По дате (по убыванию)",
          "by_date_increase" : "По дате (по возрастанию)",
          "by_price_decrease" : "По цене (по убыванию)",
          "by_price_increase" : "По цене (по возрастанию)"
@@ -22,10 +22,10 @@
       "dayNamesShort" : {
          "friday" : "Пт",
          "monday" : "Пн",
-         "saturday" : "S",
-         "sunday" : "S",
-         "thursday" : "T",
-         "tuesday" : "T",
+         "saturday" : "Сб",
+         "sunday" : "Вскр",
+         "thursday" : "Чт",
+         "tuesday" : "Вт",
          "wednesday" : "Ср"
       },
       "monthNames" : {
@@ -98,7 +98,7 @@
    "information_changed" : "Your information has been successfully changed",
    "payment_name" : "Payment for Internent",
    "payment_with_superpoins_for" : "Payment with superpoints for equipment and bills",
-   "request" : "Закажите продукт!",
+   "request" : "Закажите себе продукт!",
    "welcome_screen_hint" : "Customize your plan to fit your lifestyle and stay connected to the people that matter most in your life",
    "welcome_to_rakuten" : "Добро пожаловать в Rakuten!"
 }
